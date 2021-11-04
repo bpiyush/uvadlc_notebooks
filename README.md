@@ -61,3 +61,10 @@ Feedback, Questions or Contributions
 ------------------------------------
 
 This is the first time we present these tutorials during the Deep Learning course. As with any other project, small bugs and issues are expected. We appreciate any feedback from students, whether it is about a spelling mistake, implementation bug, or suggestions for improvements/additions to the notebooks. Please use the following [link](https://docs.google.com/forms/d/e/1FAIpQLSeIhwrFSHlDSWGAgCN-RcTKm7Sn7P6bxzIyzIGge6xId1K8DQ/viewform?usp=sf_link) to submit feedback, or feel free to reach out to me directly per mail (p dot lippe at uva dot nl), or grab me during any TA session.
+
+
+## Useful links
+
+* [Course website](https://uvadlc.github.io/)
+* [Notebooks - documentation](https://uvadlc-notebooks.readthedocs.io/en/latest/)
+* [Notebooks - GitHub](https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks)
